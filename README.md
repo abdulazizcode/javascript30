@@ -39,5 +39,14 @@
 ![alt text](https://github.com/abdulazizcode/javascript30/blob/master/4.%20Array%20Cardio%20Day%201/Capture.PNG?raw=true)
 
 
+# 5. Flex Gellary Open Close
+  
+  - Learning to work with transform translate
+
+![alt text](https://github.com/abdulazizcode/javascript30/blob/master/5.%20%20Flex%20Panel%20Gallery/Capture.PNG?raw=true)
+
+
+
+
 
 
