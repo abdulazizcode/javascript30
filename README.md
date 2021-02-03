@@ -54,6 +54,14 @@
   
   ![alt text](https://github.com/abdulazizcode/javascript30/blob/master/6.%20%20Type%20Ahead/Capture.PNG?raw=true)
 
+  # 7. Array Cardio Day 2
+  Continiue working with other array methods such as some ,every, findIndex
+  
+  - Learning to work with some and every methods in array
+  - Learning to work findIndex and slice it
+  
+![alt text](https://github.com/abdulazizcode/javascript30/blob/master/4.%20Array%20Cardio%20Day%202/Capture.PNG?raw=true)
+
 
 
 
