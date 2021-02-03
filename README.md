@@ -60,7 +60,7 @@
   - Learning to work with some and every methods in array
   - Learning to work findIndex and slice it
   
-![alt text](https://github.com/abdulazizcode/javascript30/blob/master/4.%20Array%20Cardio%20Day%202/Capture.PNG?raw=true)
+![alt text](https://github.com/abdulazizcode/javascript30/blob/master/7.%20%20Array%20Cardio%20Day%202/Capture.PNG?raw=true)
 
 
 
