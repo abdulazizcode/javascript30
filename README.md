@@ -46,6 +46,14 @@
 ![alt text](https://github.com/abdulazizcode/javascript30/blob/master/5.%20%20Flex%20Panel%20Gallery/Capture.PNG?raw=true)
 
 
+# 6. Type Ahead
+  Working with JavaScript fetch API to fech lists of cities
+  
+  - Learning to work fetch API and promices
+  - Learning to work REGEX
+  
+  ![alt text](https://github.com/abdulazizcode/javascript30/blob/master/6.%20%20Type%20Ahead/Capture.PNG?raw=true)
+
 
 
 
