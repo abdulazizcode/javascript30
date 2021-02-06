@@ -64,5 +64,15 @@
 
 
 
+  # 7. Fun with HTML5 Canvas
+  Learning how to work with Canvas
+  
+  - Learning how to draw in screen using Canvas 2D
+ 
+![alt text](https://github.com/abdulazizcode/javascript30/blob/master/8.%20%20Fun%20with%20HTML5%20Canvas/Capture.PNG?raw=true)
+
+
+
+
 
 
